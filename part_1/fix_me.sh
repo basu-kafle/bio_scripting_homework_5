@@ -3,10 +3,10 @@
 # Reading data from the user's input
 echo 'Enter a : '
 read a
-echo 'Enter b : ' 
+echo 'Enter b : '
 read b
 
-add=$((a + b))
+add=$((a+b))
 
 echo Addition of a and b are $add
 
